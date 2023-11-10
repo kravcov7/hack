@@ -8,6 +8,11 @@
 - Natasha - https://t.me/KateF20
 - Artem - https://t.me/ametist17
 
+# Стек
+
+ - Front - React, Next
+ - Back - Python, FAST API
+
 
 ## Demo
 
