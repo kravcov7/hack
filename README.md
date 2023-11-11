@@ -5,7 +5,7 @@
 ## Участники 
 
 - Elvira - https://t.me/krasnoe_soInce
-- Natasha - https://t.me/KateF20
+- Ekaterina - https://t.me/KateF20
 - Artem - https://t.me/ametist17
 
 # Стек
